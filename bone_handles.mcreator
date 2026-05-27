@@ -1,0 +1,1715 @@
+{
+  "mod_elements": [
+    {
+      "name": "WoodenAxe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wooden_axe",
+      "metadata": {
+        "files": [
+          "src/main/java/spidermna318/bonehandles/item/WoodenAxeItem.java",
+          "src/main/resources/assets/bone_handles/models/item/wooden_axe.json"
+        ]
+      },
+      "path": "~/Axe"
+    },
+    {
+      "name": "StoneAxe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_axe",
+      "metadata": {
+        "files": [
+          "src/main/java/spidermna318/bonehandles/item/StoneAxeItem.java",
+          "src/main/resources/assets/bone_handles/models/item/stone_axe.json"
+        ]
+      },
+      "path": "~/Axe"
+    },
+    {
+      "name": "AxeWoodenLeft",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "axe_wooden_left",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/recipes/axe_wooden_left.json"
+        ]
+      },
+      "path": "~/Axe/Recipe"
+    },
+    {
+      "name": "AxeWoodenRight",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "axe_wooden_right",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/recipes/axe_wooden_right.json"
+        ]
+      },
+      "path": "~/Axe/Recipe"
+    },
+    {
+      "name": "AxeStoneLeft",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "axe_stone_left",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/recipes/axe_stone_left.json"
+        ]
+      },
+      "path": "~/Axe/Recipe"
+    },
+    {
+      "name": "AxeStoneRight",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "axe_stone_right",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/recipes/axe_stone_right.json"
+        ]
+      },
+      "path": "~/Axe/Recipe"
+    },
+    {
+      "name": "IronAxe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_axe",
+      "metadata": {
+        "files": [
+          "src/main/java/spidermna318/bonehandles/item/IronAxeItem.java",
+          "src/main/resources/assets/bone_handles/models/item/iron_axe.json"
+        ]
+      },
+      "path": "~/Axe"
+    },
+    {
+      "name": "GoldenAxe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "golden_axe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/bone_handles/models/item/golden_axe.json",
+          "src/main/java/spidermna318/bonehandles/item/GoldenAxeItem.java"
+        ]
+      },
+      "path": "~/Axe"
+    },
+    {
+      "name": "DiamondAxe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamond_axe",
+      "metadata": {
+        "files": [
+          "src/main/java/spidermna318/bonehandles/item/DiamondAxeItem.java",
+          "src/main/resources/assets/bone_handles/models/item/diamond_axe.json"
+        ]
+      },
+      "path": "~/Axe"
+    },
+    {
+      "name": "NetheriteAxe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netherite_axe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/bone_handles/models/item/netherite_axe.json",
+          "src/main/java/spidermna318/bonehandles/item/NetheriteAxeItem.java"
+        ]
+      },
+      "path": "~/Axe"
+    },
+    {
+      "name": "AxeIronLeft",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "axe_iron_left",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/recipes/axe_iron_left.json"
+        ]
+      },
+      "path": "~/Axe/Recipe"
+    },
+    {
+      "name": "AxeIronRight",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "axe_iron_right",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/recipes/axe_iron_right.json"
+        ]
+      },
+      "path": "~/Axe/Recipe"
+    },
+    {
+      "name": "AxeGoldenLeft",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "axe_golden_left",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/recipes/axe_golden_left.json"
+        ]
+      },
+      "path": "~/Axe/Recipe"
+    },
+    {
+      "name": "AxeGoldenRight",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "axe_golden_right",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/recipes/axe_golden_right.json"
+        ]
+      },
+      "path": "~/Axe/Recipe"
+    },
+    {
+      "name": "AxeDiamondLeft",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "axe_diamond_left",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/recipes/axe_diamond_left.json"
+        ]
+      },
+      "path": "~/Axe/Recipe"
+    },
+    {
+      "name": "AxeDiamondRight",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "axe_diamond_right",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/recipes/axe_diamond_right.json"
+        ]
+      },
+      "path": "~/Axe/Recipe"
+    },
+    {
+      "name": "AxeNetheriteLeft",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "axe_netherite_left",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/recipes/axe_netherite_left.json"
+        ]
+      },
+      "path": "~/Axe/Recipe"
+    },
+    {
+      "name": "AxeNetheriteRight",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "axe_netherite_right",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/recipes/axe_netherite_right.json"
+        ]
+      },
+      "path": "~/Axe/Recipe"
+    },
+    {
+      "name": "AxeNetheriteUpgrade",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "axe_netherite_upgrade",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/recipes/axe_netherite_upgrade.json"
+        ]
+      },
+      "path": "~/Axe/Upgrade"
+    },
+    {
+      "name": "Template",
+      "type": "item",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "template",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/bone_handles/models/item/template.json",
+          "src/main/java/spidermna318/bonehandles/item/TemplateItem.java"
+        ]
+      }
+    },
+    {
+      "name": "WoodenAxeUpgrade",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wooden_axe_upgrade",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/recipes/wooden_axe_upgrade.json"
+        ]
+      },
+      "path": "~/Axe/Upgrade"
+    },
+    {
+      "name": "StoneAxeUpgrade",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_axe_upgrade",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/recipes/stone_axe_upgrade.json"
+        ]
+      },
+      "path": "~/Axe/Upgrade"
+    },
+    {
+      "name": "IronAxeUpgrade",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_axe_upgrade",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/recipes/iron_axe_upgrade.json"
+        ]
+      },
+      "path": "~/Axe/Upgrade"
+    },
+    {
+      "name": "GoldenAxeUpgrade",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "golden_axe_upgrade",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/recipes/golden_axe_upgrade.json"
+        ]
+      },
+      "path": "~/Axe/Upgrade"
+    },
+    {
+      "name": "DiamondAxeUpgrade",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamond_axe_upgrade",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/recipes/diamond_axe_upgrade.json"
+        ]
+      },
+      "path": "~/Axe/Upgrade"
+    },
+    {
+      "name": "NetheriteAxeUpgrade",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netherite_axe_upgrade",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/recipes/netherite_axe_upgrade.json"
+        ]
+      },
+      "path": "~/Axe/Upgrade"
+    },
+    {
+      "name": "TemplateRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "template_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/recipes/template.json"
+        ]
+      }
+    },
+    {
+      "name": "UnlockRecipes",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "unlock_recipes",
+      "metadata": {
+        "files": [
+          "src/main/java/spidermna318/bonehandles/procedures/UnlockRecipesProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "WoodenPickaxe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wooden_pickaxe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/bone_handles/models/item/wooden_pickaxe.json",
+          "src/main/java/spidermna318/bonehandles/item/WoodenPickaxeItem.java"
+        ]
+      },
+      "path": "~/Pickaxe"
+    },
+    {
+      "name": "StonePickaxe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_pickaxe",
+      "metadata": {
+        "files": [
+          "src/main/java/spidermna318/bonehandles/item/StonePickaxeItem.java",
+          "src/main/resources/assets/bone_handles/models/item/stone_pickaxe.json"
+        ]
+      },
+      "path": "~/Pickaxe"
+    },
+    {
+      "name": "IronPickaxe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_pickaxe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/bone_handles/models/item/iron_pickaxe.json",
+          "src/main/java/spidermna318/bonehandles/item/IronPickaxeItem.java"
+        ]
+      },
+      "path": "~/Pickaxe"
+    },
+    {
+      "name": "GoldenPickaxe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "golden_pickaxe",
+      "metadata": {
+        "files": [
+          "src/main/java/spidermna318/bonehandles/item/GoldenPickaxeItem.java",
+          "src/main/resources/assets/bone_handles/models/item/golden_pickaxe.json"
+        ]
+      },
+      "path": "~/Pickaxe"
+    },
+    {
+      "name": "DiamondPickaxe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamond_pickaxe",
+      "metadata": {
+        "files": [
+          "src/main/java/spidermna318/bonehandles/item/DiamondPickaxeItem.java",
+          "src/main/resources/assets/bone_handles/models/item/diamond_pickaxe.json"
+        ]
+      },
+      "path": "~/Pickaxe"
+    },
+    {
+      "name": "NetheritePickaxe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netherite_pickaxe",
+      "metadata": {
+        "files": [
+          "src/main/java/spidermna318/bonehandles/item/NetheritePickaxeItem.java",
+          "src/main/resources/assets/bone_handles/models/item/netherite_pickaxe.json"
+        ]
+      },
+      "path": "~/Pickaxe"
+    },
+    {
+      "name": "PickaxeWooden",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pickaxe_wooden",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/recipes/pickaxe_wooden.json"
+        ]
+      },
+      "path": "~/Pickaxe/Recipe"
+    },
+    {
+      "name": "PickaxeStone",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pickaxe_stone",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/recipes/pickaxe_stone.json"
+        ]
+      },
+      "path": "~/Pickaxe/Recipe"
+    },
+    {
+      "name": "PickaxeIron",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pickaxe_iron",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/recipes/pickaxe_iron.json"
+        ]
+      },
+      "path": "~/Pickaxe/Recipe"
+    },
+    {
+      "name": "PickaxeGolden",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pickaxe_golden",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/recipes/pickaxe_golden.json"
+        ]
+      },
+      "path": "~/Pickaxe/Recipe"
+    },
+    {
+      "name": "PickaxeDiamond",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pickaxe_diamond",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/recipes/pickaxe_diamond.json"
+        ]
+      },
+      "path": "~/Pickaxe/Recipe"
+    },
+    {
+      "name": "PickaxeNetherite",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pickaxe_netherite",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/recipes/pickaxe_netherite.json"
+        ]
+      },
+      "path": "~/Pickaxe/Recipe"
+    },
+    {
+      "name": "PickaxeNetheriteUpgrade",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pickaxe_netherite_upgrade",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/recipes/pickaxe_netherite_upgrade.json"
+        ]
+      },
+      "path": "~/Pickaxe/Upgrade"
+    },
+    {
+      "name": "WoodenPickaxeUpgrade",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wooden_pickaxe_upgrade",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/recipes/wooden_pickaxe_upgrade.json"
+        ]
+      },
+      "path": "~/Pickaxe/Upgrade"
+    },
+    {
+      "name": "StonePickaxeUpgrade",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_pickaxe_upgrade",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/recipes/stone_pickaxe_upgrade.json"
+        ]
+      },
+      "path": "~/Pickaxe/Upgrade"
+    },
+    {
+      "name": "IronPickaxeUpgrade",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_pickaxe_upgrade",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/recipes/iron_pickaxe_upgrade.json"
+        ]
+      },
+      "path": "~/Pickaxe/Upgrade"
+    },
+    {
+      "name": "GoldenPickaxeUpgrade",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "golden_pickaxe_upgrade",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/recipes/golden_pickaxe_upgrade.json"
+        ]
+      },
+      "path": "~/Pickaxe/Upgrade"
+    },
+    {
+      "name": "DiamondPickaxeUpgrade",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamond_pickaxe_upgrade",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/recipes/diamond_pickaxe_upgrade.json"
+        ]
+      },
+      "path": "~/Pickaxe/Upgrade"
+    },
+    {
+      "name": "NetheritePickaxeUpgrade",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netherite_pickaxe_upgrade",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/recipes/netherite_pickaxe_upgrade.json"
+        ]
+      },
+      "path": "~/Pickaxe/Upgrade"
+    },
+    {
+      "name": "WoodenShovel",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wooden_shovel",
+      "metadata": {
+        "files": [
+          "src/main/java/spidermna318/bonehandles/item/WoodenShovelItem.java",
+          "src/main/resources/assets/bone_handles/models/item/wooden_shovel.json"
+        ]
+      },
+      "path": "~/Shovel"
+    },
+    {
+      "name": "StoneShovel",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_shovel",
+      "metadata": {
+        "files": [
+          "src/main/java/spidermna318/bonehandles/item/StoneShovelItem.java",
+          "src/main/resources/assets/bone_handles/models/item/stone_shovel.json"
+        ]
+      },
+      "path": "~/Shovel"
+    },
+    {
+      "name": "IronShovel",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_shovel",
+      "metadata": {
+        "files": [
+          "src/main/java/spidermna318/bonehandles/item/IronShovelItem.java",
+          "src/main/resources/assets/bone_handles/models/item/iron_shovel.json"
+        ]
+      },
+      "path": "~/Shovel"
+    },
+    {
+      "name": "GoldenShovel",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "golden_shovel",
+      "metadata": {
+        "files": [
+          "src/main/java/spidermna318/bonehandles/item/GoldenShovelItem.java",
+          "src/main/resources/assets/bone_handles/models/item/golden_shovel.json"
+        ]
+      },
+      "path": "~/Shovel"
+    },
+    {
+      "name": "DiamondShovel",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamond_shovel",
+      "metadata": {
+        "files": [
+          "src/main/java/spidermna318/bonehandles/item/DiamondShovelItem.java",
+          "src/main/resources/assets/bone_handles/models/item/diamond_shovel.json"
+        ]
+      },
+      "path": "~/Shovel"
+    },
+    {
+      "name": "NetheriteShovel",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netherite_shovel",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/bone_handles/models/item/netherite_shovel.json",
+          "src/main/java/spidermna318/bonehandles/item/NetheriteShovelItem.java"
+        ]
+      },
+      "path": "~/Shovel"
+    },
+    {
+      "name": "ShovelWooden",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shovel_wooden",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/recipes/shovel_wooden.json"
+        ]
+      },
+      "path": "~/Shovel/Recipe"
+    },
+    {
+      "name": "ShovelStone",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shovel_stone",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/recipes/shovel_stone.json"
+        ]
+      },
+      "path": "~/Shovel/Recipe"
+    },
+    {
+      "name": "ShovelIron",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shovel_iron",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/recipes/shovel_iron.json"
+        ]
+      },
+      "path": "~/Shovel/Recipe"
+    },
+    {
+      "name": "ShovelGolden",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shovel_golden",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/recipes/shovel_golden.json"
+        ]
+      },
+      "path": "~/Shovel/Recipe"
+    },
+    {
+      "name": "ShovelDiamond",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shovel_diamond",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/recipes/shovel_diamond.json"
+        ]
+      },
+      "path": "~/Shovel/Recipe"
+    },
+    {
+      "name": "ShovelNetherite",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shovel_netherite",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/recipes/shovel_netherite.json"
+        ]
+      },
+      "path": "~/Shovel/Recipe"
+    },
+    {
+      "name": "ShovelNetheriteUpgrade",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shovel_netherite_upgrade",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/recipes/shovel_netherite_upgrade.json"
+        ]
+      },
+      "path": "~/Shovel/Upgrade"
+    },
+    {
+      "name": "WoodenShovelUpgrade",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wooden_shovel_upgrade",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/recipes/wooden_shovel_upgrade.json"
+        ]
+      },
+      "path": "~/Shovel/Upgrade"
+    },
+    {
+      "name": "StoneShovelUpgrade",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_shovel_upgrade",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/recipes/stone_shovel_upgrade.json"
+        ]
+      },
+      "path": "~/Shovel/Upgrade"
+    },
+    {
+      "name": "IronShovelUpgrade",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_shovel_upgrade",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/recipes/iron_shovel_upgrade.json"
+        ]
+      },
+      "path": "~/Shovel/Upgrade"
+    },
+    {
+      "name": "GoldenShovelUpgrade",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "golden_shovel_upgrade",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/recipes/golden_shovel_upgrade.json"
+        ]
+      },
+      "path": "~/Shovel/Upgrade"
+    },
+    {
+      "name": "DiamondShovelUpgrade",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamond_shovel_upgrade",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/recipes/diamond_shovel_upgrade.json"
+        ]
+      },
+      "path": "~/Shovel/Upgrade"
+    },
+    {
+      "name": "NetheriteShovelUpgrade",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netherite_shovel_upgrade",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/recipes/netherite_shovel_upgrade.json"
+        ]
+      },
+      "path": "~/Shovel/Upgrade"
+    },
+    {
+      "name": "WoodenSword",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wooden_sword",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/bone_handles/models/item/wooden_sword.json",
+          "src/main/java/spidermna318/bonehandles/item/WoodenSwordItem.java"
+        ]
+      },
+      "path": "~/Sword"
+    },
+    {
+      "name": "StoneSword",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_sword",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/bone_handles/models/item/stone_sword.json",
+          "src/main/java/spidermna318/bonehandles/item/StoneSwordItem.java"
+        ]
+      },
+      "path": "~/Sword"
+    },
+    {
+      "name": "IronSword",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_sword",
+      "metadata": {
+        "files": [
+          "src/main/java/spidermna318/bonehandles/item/IronSwordItem.java",
+          "src/main/resources/assets/bone_handles/models/item/iron_sword.json"
+        ]
+      },
+      "path": "~/Sword"
+    },
+    {
+      "name": "GoldenSword",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "golden_sword",
+      "metadata": {
+        "files": [
+          "src/main/java/spidermna318/bonehandles/item/GoldenSwordItem.java",
+          "src/main/resources/assets/bone_handles/models/item/golden_sword.json"
+        ]
+      },
+      "path": "~/Sword"
+    },
+    {
+      "name": "DiamondSword",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamond_sword",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/bone_handles/models/item/diamond_sword.json",
+          "src/main/java/spidermna318/bonehandles/item/DiamondSwordItem.java"
+        ]
+      },
+      "path": "~/Sword"
+    },
+    {
+      "name": "NetheriteSword",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netherite_sword",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/bone_handles/models/item/netherite_sword.json",
+          "src/main/java/spidermna318/bonehandles/item/NetheriteSwordItem.java"
+        ]
+      },
+      "path": "~/Sword"
+    },
+    {
+      "name": "SwordWooden",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sword_wooden",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/recipes/sword_wooden.json"
+        ]
+      },
+      "path": "~/Sword/Recipe"
+    },
+    {
+      "name": "SwordStone",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sword_stone",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/recipes/sword_stone.json"
+        ]
+      },
+      "path": "~/Sword/Recipe"
+    },
+    {
+      "name": "SwordIron",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sword_iron",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/recipes/sword_iron.json"
+        ]
+      },
+      "path": "~/Sword/Recipe"
+    },
+    {
+      "name": "SwordGolden",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sword_golden",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/recipes/sword_golden.json"
+        ]
+      },
+      "path": "~/Sword/Recipe"
+    },
+    {
+      "name": "SwordDiamond",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sword_diamond",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/recipes/sword_diamond.json"
+        ]
+      },
+      "path": "~/Sword/Recipe"
+    },
+    {
+      "name": "SwordNetherite",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sword_netherite",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/recipes/sword_netherite.json"
+        ]
+      },
+      "path": "~/Sword/Recipe"
+    },
+    {
+      "name": "SwordNetheriteUpgrade",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sword_netherite_upgrade",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/recipes/sword_netherite_upgrade.json"
+        ]
+      },
+      "path": "~/Sword/Upgrade"
+    },
+    {
+      "name": "WoodenSwordUpgrade",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wooden_sword_upgrade",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/recipes/wooden_sword_upgrade.json"
+        ]
+      },
+      "path": "~/Sword/Upgrade"
+    },
+    {
+      "name": "StoneSwordUpgrade",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_sword_upgrade",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/recipes/stone_sword_upgrade.json"
+        ]
+      },
+      "path": "~/Sword/Upgrade"
+    },
+    {
+      "name": "IronSwordUpgrade",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_sword_upgrade",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/recipes/iron_sword_upgrade.json"
+        ]
+      },
+      "path": "~/Sword/Upgrade"
+    },
+    {
+      "name": "GoldenSwordUpgrade",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "golden_sword_upgrade",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/recipes/golden_sword_upgrade.json"
+        ]
+      },
+      "path": "~/Sword/Upgrade"
+    },
+    {
+      "name": "DiamondSwordUpgrade",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamond_sword_upgrade",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/recipes/diamond_sword_upgrade.json"
+        ]
+      },
+      "path": "~/Sword/Upgrade"
+    },
+    {
+      "name": "NetheriteSwordUpgrade",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netherite_sword_upgrade",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/recipes/netherite_sword_upgrade.json"
+        ]
+      },
+      "path": "~/Sword/Upgrade"
+    },
+    {
+      "name": "WoodenHoe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wooden_hoe",
+      "metadata": {
+        "files": [
+          "src/main/java/spidermna318/bonehandles/item/WoodenHoeItem.java",
+          "src/main/resources/assets/bone_handles/models/item/wooden_hoe.json"
+        ]
+      },
+      "path": "~/Hoe"
+    },
+    {
+      "name": "StoneHoe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_hoe",
+      "metadata": {
+        "files": [
+          "src/main/java/spidermna318/bonehandles/item/StoneHoeItem.java",
+          "src/main/resources/assets/bone_handles/models/item/stone_hoe.json"
+        ]
+      },
+      "path": "~/Hoe"
+    },
+    {
+      "name": "IronHoe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_hoe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/bone_handles/models/item/iron_hoe.json",
+          "src/main/java/spidermna318/bonehandles/item/IronHoeItem.java"
+        ]
+      },
+      "path": "~/Hoe"
+    },
+    {
+      "name": "GoldenHoe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "golden_hoe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/bone_handles/models/item/golden_hoe.json",
+          "src/main/java/spidermna318/bonehandles/item/GoldenHoeItem.java"
+        ]
+      },
+      "path": "~/Hoe"
+    },
+    {
+      "name": "DiamondHoe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamond_hoe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/bone_handles/models/item/diamond_hoe.json",
+          "src/main/java/spidermna318/bonehandles/item/DiamondHoeItem.java"
+        ]
+      },
+      "path": "~/Hoe"
+    },
+    {
+      "name": "NetheriteHoe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netherite_hoe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/bone_handles/models/item/netherite_hoe.json",
+          "src/main/java/spidermna318/bonehandles/item/NetheriteHoeItem.java"
+        ]
+      },
+      "path": "~/Hoe"
+    },
+    {
+      "name": "HoeWoodenLeft",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hoe_wooden_left",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/recipes/hoe_wooden_left.json"
+        ]
+      },
+      "path": "~/Hoe/Recipe"
+    },
+    {
+      "name": "HoeWoodenRight",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hoe_wooden_right",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/recipes/hoe_wooden_right.json"
+        ]
+      },
+      "path": "~/Hoe/Recipe"
+    },
+    {
+      "name": "HoeStoneLeft",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hoe_stone_left",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/recipes/hoe_stone_left.json"
+        ]
+      },
+      "path": "~/Hoe/Recipe"
+    },
+    {
+      "name": "HoeStoneRight",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hoe_stone_right",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/recipes/hoe_stone_right.json"
+        ]
+      },
+      "path": "~/Hoe/Recipe"
+    },
+    {
+      "name": "HoeIronLeft",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hoe_iron_left",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/recipes/hoe_iron_left.json"
+        ]
+      },
+      "path": "~/Hoe/Recipe"
+    },
+    {
+      "name": "HoeIronRight",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hoe_iron_right",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/recipes/hoe_iron_right.json"
+        ]
+      },
+      "path": "~/Hoe/Recipe"
+    },
+    {
+      "name": "HoeGoldenLeft",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hoe_golden_left",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/recipes/hoe_golden_left.json"
+        ]
+      },
+      "path": "~/Hoe/Recipe"
+    },
+    {
+      "name": "HoeGoldenRight",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hoe_golden_right",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/recipes/hoe_golden_right.json"
+        ]
+      },
+      "path": "~/Hoe/Recipe"
+    },
+    {
+      "name": "HoeDiamondLeft",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hoe_diamond_left",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/recipes/hoe_diamond_left.json"
+        ]
+      },
+      "path": "~/Hoe/Recipe"
+    },
+    {
+      "name": "HoeDiamondRight",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hoe_diamond_right",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/recipes/hoe_diamond_right.json"
+        ]
+      },
+      "path": "~/Hoe/Recipe"
+    },
+    {
+      "name": "HoeNetheriteLeft",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hoe_netherite_left",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/recipes/hoe_netherite_left.json"
+        ]
+      },
+      "path": "~/Hoe/Recipe"
+    },
+    {
+      "name": "HoeNetheriteRight",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hoe_netherite_right",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/recipes/hoe_netherite_right.json"
+        ]
+      },
+      "path": "~/Hoe/Recipe"
+    },
+    {
+      "name": "HoeNetheriteUpgrade",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hoe_netherite_upgrade",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/recipes/hoe_netherite_upgrade.json"
+        ]
+      },
+      "path": "~/Hoe/Upgrade"
+    },
+    {
+      "name": "WoodenHoeUpgrade",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wooden_hoe_upgrade",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/recipes/wooden_hoe_upgrade.json"
+        ]
+      },
+      "path": "~/Hoe/Upgrade"
+    },
+    {
+      "name": "StoneHoeUpgrade",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_hoe_upgrade",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/recipes/stone_hoe_upgrade.json"
+        ]
+      },
+      "path": "~/Hoe/Upgrade"
+    },
+    {
+      "name": "IronHoeUpgrade",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_hoe_upgrade",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/recipes/iron_hoe_upgrade.json"
+        ]
+      },
+      "path": "~/Hoe/Upgrade"
+    },
+    {
+      "name": "GoldenHoeUpgrade",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "golden_hoe_upgrade",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/recipes/golden_hoe_upgrade.json"
+        ]
+      },
+      "path": "~/Hoe/Upgrade"
+    },
+    {
+      "name": "DiamondHoeUpgrade",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamond_hoe_upgrade",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/recipes/diamond_hoe_upgrade.json"
+        ]
+      },
+      "path": "~/Hoe/Upgrade"
+    },
+    {
+      "name": "NetheriteHoeUpgrade",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netherite_hoe_upgrade",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/recipes/netherite_hoe_upgrade.json"
+        ]
+      },
+      "path": "~/Hoe/Upgrade"
+    },
+    {
+      "name": "GettingAnUpgrade",
+      "type": "achievement",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "getting_an_upgrade",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/advancements/getting_an_upgrade.json"
+        ]
+      },
+      "path": "~/Pickaxe"
+    },
+    {
+      "name": "IsntItIronPick",
+      "type": "achievement",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "isnt_it_iron_pick",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/advancements/isnt_it_iron_pick.json"
+        ]
+      },
+      "path": "~/Pickaxe"
+    },
+    {
+      "name": "SeriousDedication",
+      "type": "achievement",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "serious_dedication",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/advancements/serious_dedication.json"
+        ]
+      },
+      "path": "~/Hoe"
+    },
+    {
+      "name": "AdvancementProxy",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "advancement_proxy",
+      "metadata": {
+        "files": [
+          "src/main/java/spidermna318/bonehandles/procedures/AdvancementProxyProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "TemplateRecipeAlt",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "template_recipe_alt",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bone_handles/recipes/template_recipe_alt.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {
+    "ITEMS:minecraft:pickaxes": [
+      "~CUSTOM:NetheritePickaxe",
+      "~CUSTOM:DiamondPickaxe",
+      "~CUSTOM:GoldenPickaxe",
+      "~CUSTOM:IronPickaxe",
+      "~CUSTOM:StonePickaxe",
+      "~CUSTOM:WoodenPickaxe"
+    ],
+    "ITEMS:minecraft:axes": [
+      "~CUSTOM:NetheriteAxe",
+      "~CUSTOM:DiamondAxe",
+      "~CUSTOM:GoldenAxe",
+      "~CUSTOM:IronAxe",
+      "~CUSTOM:StoneAxe",
+      "~CUSTOM:WoodenAxe"
+    ],
+    "ITEMS:minecraft:swords": [
+      "~CUSTOM:NetheriteSword",
+      "~CUSTOM:DiamondSword",
+      "~CUSTOM:GoldenSword",
+      "~CUSTOM:IronSword",
+      "~CUSTOM:StoneSword",
+      "~CUSTOM:WoodenSword"
+    ],
+    "ITEMS:minecraft:hoes": [
+      "~CUSTOM:NetheriteHoe",
+      "~CUSTOM:DiamondHoe",
+      "~CUSTOM:GoldenHoe",
+      "~CUSTOM:IronHoe",
+      "~CUSTOM:StoneHoe",
+      "~CUSTOM:WoodenHoe"
+    ],
+    "ITEMS:minecraft:shovels": [
+      "~CUSTOM:NetheriteShovel",
+      "~CUSTOM:DiamondShovel",
+      "~CUSTOM:GoldenShovel",
+      "~CUSTOM:IronShovel",
+      "~CUSTOM:StoneShovel",
+      "~CUSTOM:WoodenShovel"
+    ]
+  },
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "item.bone_handles.diamond_pickaxe": "Diamond Pickaxe",
+      "item.bone_handles.netherite_pickaxe": "Netherite Pickaxe",
+      "advancements.isnt_it_iron_pick.title": "Isn\u0027t It Iron Pick",
+      "advancements.isnt_it_iron_pick.descr": "Upgrade your Pickaxe",
+      "item.bone_handles.netherite_hoe": "Netherite Hoe",
+      "item.bone_handles.stone_hoe": "Stone Hoe",
+      "item.bone_handles.stone_shovel": "Stone Shovel",
+      "item.bone_handles.wooden_pickaxe": "Wooden Pickaxe",
+      "item.minecraft.smithing_template.bone_upgrade.additions_slot_description": "Add Bone",
+      "item.bone_handles.netherite_sword": "Netherite Sword",
+      "item.minecraft.smithing_template.bone_upgrade.applies_to": "Tools with Stick Handles",
+      "item.bone_handles.netherite_shovel": "Netherite Shovel",
+      "item.bone_handles.stone_pickaxe": "Stone Pickaxe",
+      "item.bone_handles.iron_sword": "Iron Sword",
+      "item.minecraft.smithing_template.bone_upgrade.base_slot_description": "Add any Tool with a Stick Handle",
+      "item.bone_handles.stone_axe": "Stone Axe",
+      "item.bone_handles.wooden_axe": "Wooden Axe",
+      "advancements.serious_dedication.descr": "Use a Netherite Ingot to upgrade a Hoe, and then reevaluate your life choices",
+      "upgrade.minecraft.bone_upgrade": "Bone Handle Upgrade",
+      "item.bone_handles.diamond_hoe": "Diamond Hoe",
+      "item.bone_handles.golden_axe": "Golden Axe",
+      "item.bone_handles.stone_sword": "Stone Sword",
+      "item.bone_handles.iron_pickaxe": "Iron Pickaxe",
+      "item.bone_handles.iron_hoe": "Iron Hoe",
+      "advancements.getting_an_upgrade.descr": "Construct a better Pickaxe",
+      "advancements.serious_dedication.title": "Serious Dedication",
+      "item.bone_handles.iron_shovel": "Iron Shovel",
+      "item.bone_handles.golden_shovel": "Golden Shovel",
+      "item.bone_handles.golden_pickaxe": "Golden Pickaxe",
+      "item.bone_handles.wooden_hoe": "Wooden Hoe",
+      "item.bone_handles.diamond_axe": "Diamond Axe",
+      "item.bone_handles.golden_hoe": "Golden Hoe",
+      "item.bone_handles.wooden_shovel": "Wooden Shovel",
+      "item.bone_handles.diamond_shovel": "Diamond Shovel",
+      "item.bone_handles.iron_axe": "Iron Axe",
+      "item.bone_handles.netherite_axe": "Netherite Axe",
+      "item.bone_handles.diamond_sword": "Diamond Sword",
+      "item.bone_handles.wooden_sword": "Wooden Sword",
+      "item.minecraft.smithing_template.bone_upgrade.ingredients": "Bone",
+      "advancements.getting_an_upgrade.title": "Getting an Upgrade",
+      "item.bone_handles.golden_sword": "Golden Sword"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "Axe",
+        "children": [
+          {
+            "name": "Recipe",
+            "children": []
+          },
+          {
+            "name": "Upgrade",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Pickaxe",
+        "children": [
+          {
+            "name": "Recipe",
+            "children": []
+          },
+          {
+            "name": "Upgrade",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Shovel",
+        "children": [
+          {
+            "name": "Recipe",
+            "children": []
+          },
+          {
+            "name": "Upgrade",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Sword",
+        "children": [
+          {
+            "name": "Recipe",
+            "children": []
+          },
+          {
+            "name": "Upgrade",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Hoe",
+        "children": [
+          {
+            "name": "Recipe",
+            "children": []
+          },
+          {
+            "name": "Upgrade",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "bone_handles",
+    "modName": "Bone Handles",
+    "version": "1.0.0",
+    "description": "Adds a Alternative to sticks for the handles of Tools, tools with bone handles will have 1.33x more durability \u0026 stick tools can be upgraded with a Bone Template",
+    "author": "Spiderman318",
+    "license": "GNU General Public License version 3 (GPLv3)",
+    "serverSideOnly": true,
+    "modPicture": "bone_upgrade",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.20.1",
+    "credits": "Spiderman31807",
+    "modElementsPackage": "spidermna318.bonehandles"
+  },
+  "mcreatorVersion": 202400232117
+}
